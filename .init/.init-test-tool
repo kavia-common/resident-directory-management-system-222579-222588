@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/resident-directory-management-system-222579-222588/resident_directory_backend"
+}
